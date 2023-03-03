@@ -29,7 +29,7 @@ public class BaseTest {
     @AfterClass
     public void tearDown() {
         // Cerrar el navegador después de cada prueba
-        driver.quit();
+        //driver.quit();
     }
 
 }
