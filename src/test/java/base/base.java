@@ -36,6 +36,4 @@ public class base {
         // Cerrar el navegador después de cada prueba
         driver.quit();
     }
-
 }
-
